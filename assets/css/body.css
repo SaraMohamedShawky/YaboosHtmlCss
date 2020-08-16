@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap");
+html, body {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Cairo", sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+  text-align: right;
+  font-size: 18px;
+  background-image: url("../imgs/test5.jpg");
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+  letter-spacing: 0;
+  font-weight: normal;
+  position: relative;
+  padding: 0 0 10px 0;
+  font-weight: normal;
+  line-height: 120% !important;
+  color: #333333;
+  margin: 0;
+}
+
+body h1 {
+  font-size: 24px;
+}
+
+body h2 {
+  font-size: 22px;
+}
+
+body h3 {
+  font-size: 18px;
+}
+
+body h4 {
+  font-size: 16px;
+}
+
+body h5 {
+  font-size: 14px;
+}
+
+body h6 {
+  font-size: 13px;
+}
+
+body a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.Unset {
+  all: unset;
+}
+/*# sourceMappingURL=body.css.map */
